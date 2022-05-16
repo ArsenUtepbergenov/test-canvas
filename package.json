@@ -1,0 +1,12 @@
+{
+  "name": "test-canvas",
+  "version": "0.0.1",
+  "description": "The project for testing canvas",
+  "main": "index.js",
+  "repository": "https://github.com/ArsenUtepbergenov/test-canvas.git",
+  "author": "ArsenUtepbergenov <arsen.utepbergenov@yandex.ru>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {}
+}
