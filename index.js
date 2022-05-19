@@ -1,6 +1,6 @@
 import Timer from './js/Timer.js'
 import Camera from './js/Camera.js'
-import { loadLevel } from './js/loaders.js'
+import { loadLevel } from './js/loaders/level.js'
 import { createMario } from './js/entities.js'
 // import { createCollisionLayer, createCameraLayer } from './js/layers.js'
 import { setupKeyboard } from './js/input.js'
